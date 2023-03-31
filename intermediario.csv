@@ -1,1 +1,4 @@
-lote,validade,Base,CP,CQM,Int_CI,Int_EP,Kit_CI,Kit_EP,produto
+validade,Base,CP,CQM,Int_CI,Int_EP,Kit_CI,Kit_EP,qtd_kit_ci
+2024-01-15,59,3,6,57,44,20,31,
+2024-02-05,58,7,0,54,58,51,11,
+2024-02-02,29,0,3,45,29,47,2,150.0
